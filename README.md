@@ -2,7 +2,7 @@
 ### Hello World 👋 I am Alberto Gaia!
 ---
 <html>
-<a href="https://www.linkedin.com/in/alberto-gaia/" target="_new"><img src="https://img.shields.io/badge/Linkedin-Connect-informational"></a> <a href="https://twitter.com/AlbertoGaiaDev" target="_blank"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/AlbertoGaiaDev?style=social"></a>
+<a href="https://www.linkedin.com/in/alberto-gaia/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-Connect-informational"></a> <a href="https://twitter.com/AlbertoGaiaDev" target="_blank"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/AlbertoGaiaDev?style=social"></a>
 <br />
 <br />
 🖥 I have always been interested in the world of computer science and technology with a focus on design and web development.</br>
