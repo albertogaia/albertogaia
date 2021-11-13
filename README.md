@@ -1,6 +1,7 @@
 
 ### Hello World 👋 I am Alberto Gaia!
 ---
+<html>
 <div style="display:flex">
     <div>
         <a href="https://www.linkedin.com/in/alberto-gaia/" target="_new"><img src="https://img.shields.io/badge/Linkedin-Connect-informational"></a> <a href="https://twitter.com/AlbertoGaiaDev" target="_blank"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/AlbertoGaiaDev?style=social"></a>
@@ -33,5 +34,5 @@
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=albertogaia&hide=java,html,css&theme=radical)](https://github.com/albertogaia/github-readme-stats)
 
-
+</html>
 ---
