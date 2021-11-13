@@ -2,23 +2,13 @@
 ### Hello World 👋 I am Alberto Gaia!
 ---
 <html>
-<div style="display:flex">
-    <div>
-        <a href="https://www.linkedin.com/in/alberto-gaia/" target="_new"><img src="https://img.shields.io/badge/Linkedin-Connect-informational"></a> <a href="https://twitter.com/AlbertoGaiaDev" target="_blank"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/AlbertoGaiaDev?style=social"></a>
-        <br />
-        <br />
-        🖥 I have always been interested in the world of computer science and technology with a focus on design and web development.</br>
-        👾 I'm a curious person and prone to learn new skills and enrich my expertise! 
-        <br />
-        🎶 In my free time I like to organize events, listen to music and watch movies / Tv series.
-    </div>
-    <div>
-        <a href="https://app.daily.dev/albertogaia"><img src="https://github.com/albertogaia/albertogaia/blob/main/devcard.svg" width="250" alt="Alberto Gaia's Dev Card"/></a> 
-    </div>
- </div>
-
-
-
+<a href="https://www.linkedin.com/in/alberto-gaia/" target="_new"><img src="https://img.shields.io/badge/Linkedin-Connect-informational"></a> <a href="https://twitter.com/AlbertoGaiaDev" target="_blank"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/AlbertoGaiaDev?style=social"></a>
+<br />
+<br />
+🖥 I have always been interested in the world of computer science and technology with a focus on design and web development.</br>
+👾 I'm a curious person and prone to learn new skills and enrich my expertise! 
+<br />
+🎶 In my free time I like to organize events, listen to music and watch movies / Tv series.
 <br />
 <br />
 <h2>🧰 Toolbox </h2>
@@ -33,6 +23,7 @@
 
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=albertogaia&hide=java,html,css&theme=radical)](https://github.com/albertogaia/github-readme-stats)
-
+<br/>
+<a href="https://app.daily.dev/albertogaia"><img src="https://github.com/albertogaia/albertogaia/blob/main/devcard.svg" width="250" alt="Alberto Gaia's Dev Card"/></a> 
 </html>
 ---
