@@ -12,7 +12,7 @@
   </div>
   <div>
     <a href="https://app.daily.dev/albertogaia"><img src="https://github.com/albertogaia/albertogaia/blob/main/devcard.svg" width="250" alt="Alberto Gaia's Dev Card"/></a> 
-  </div>
+</div>
 <br />
 <br />
 </div>
