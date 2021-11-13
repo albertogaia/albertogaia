@@ -1,5 +1,4 @@
-<div style="display: flex">
-  <div>
+<div>
     ### Hello World 👋 I am Alberto Gaia!
     ---
     <a href="https://www.linkedin.com/in/alberto-gaia/" target="_new"><img src="https://img.shields.io/badge/Linkedin-Connect-informational"></a> <a href="https://twitter.com/AlbertoGaiaDev" target="_blank"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/AlbertoGaiaDev?style=social"></a>
@@ -9,10 +8,9 @@
     👾 I'm a curious person and prone to learn new skills and enrich my expertise! 
     <br />
     🎶 In my free time I like to organize events, listen to music and watch movies / Tv series.
-  </div>
+</div>
   <div>
     <a href="https://app.daily.dev/albertogaia"><img src="https://github.com/albertogaia/albertogaia/blob/main/devcard.svg" width="250" alt="Alberto Gaia's Dev Card"/></a> 
-</div>
 <br />
 <br />
 </div>
