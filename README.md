@@ -20,5 +20,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=albertogaia&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://app.daily.dev/albertogaia"><img src="./blob/master/devcard.svg?r=a19" width="400" alt="Alberto Gaia's Dev Card"/></a> 
+<a href="https://app.daily.dev/albertogaia"><img src="./albertogaia/blob/master/devcard.svg?r=a19" width="400" alt="Alberto Gaia's Dev Card"/></a> 
 ---
