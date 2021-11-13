@@ -18,7 +18,9 @@
 <br />
 <h2> &#x1f4c8; My GitHub Stats </h2>
 
+<div style="display: flex">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=albertogaia&hide=java,html,css&theme=radical)](https://github.com/albertogaia/github-readme-stats)
 
 <a href="https://app.daily.dev/albertogaia"><img src="https://github.com/albertogaia/albertogaia/blob/main/devcard.svg" width="400" alt="Alberto Gaia's Dev Card"/></a> 
+</div>
 ---
