@@ -1,16 +1,28 @@
-### Hi there 👋
+### Hello World 👋 I am Alberto Gaia!
+---
+<a href="https://www.linkedin.com/in/alberto-gaia/" target="_new"><img src="https://img.shields.io/badge/Linkedin-Connect-informational"></a> <a href="https://twitter.com/AlbertoGaiaDev" target="_blank"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/AlbertoGaiaDev?style=social"></a>
+<br />
+<br />
+🖥 I have always been interested in the world of computer science and technology with a focus on design and web development.</br>
+👾 I'm a curious person and prone to learn new skills and enrich my expertise! 
+<br />
+🎶 In my free time I like to organize events, listen to music and watch movies / Tv series.
+<br />
+<br />
+<h2>🧰 Toolbox </h2>
+<img src="https://cdn.worldvectorlogo.com/logos/html5.svg" alt="HTML5 Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS3 Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="Sass Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="JavaScript Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/vue-js-1.svg" alt="VueJS Logo" width="50" height="50"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React JS Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/php.svg" alt="PHP Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/laravel-1.svg" alt="Laravel Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" alt="NodeJS Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/mysql-2.svg" alt="MySQL Logo" width="50" height="50"/>
 
-<!--
-**albertogaia/albertogaia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## &#x1f4c8; My GitHub Stats
 
-Here are some ideas to get you started:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=albertogaia&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
