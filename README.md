@@ -10,8 +10,10 @@
 <br />
 <br />
 <h2>🧰 Toolbox </h2>
+<div style="display:flex">
 <img src="https://cdn.worldvectorlogo.com/logos/html5.svg" alt="HTML5 Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS3 Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="Sass Logo" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="JavaScript Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/vue-js-1.svg" alt="VueJS Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React JS Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/php.svg" alt="PHP Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/laravel-1.svg" alt="Laravel Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" alt="NodeJS Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/mysql-2.svg" alt="MySQL Logo" width="50" height="50"/>
+</div>
 
 ## &#x1f4c8; My GitHub Stats
 
